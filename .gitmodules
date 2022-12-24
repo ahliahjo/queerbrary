@@ -1,0 +1,4 @@
+[submodule "queerbrary/themes/blowfish"]
+	path = queerbrary/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
