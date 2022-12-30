@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Queerbrary</title>
+    <title>Welcome to Queerbrary! on Queerbrary</title>
     <link>/</link>
-    <description>Recent content on Queerbrary</description>
+    <description>Recent content in Welcome to Queerbrary! on Queerbrary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Ahliah Bratzler</copyright>
@@ -14,16 +14,16 @@
       <pubDate>Wed, 21 Apr 2021 22:32:37 -0500</pubDate>
       
       <guid>/posts/supporting-trans-kids/</guid>
-      <description>Intro Intro # If you’re on this blog, you’ve no doubt seen the plethora of anti-trans bills in state legislatures across the United States. Most of these bills are aimed at transgender children – some strip away the right to medical interventions like puberty blockers, others prevent children and teens from playing in sports, and others still require teachers and administrators in our schools to out any child with &amp;ldquo;gender non-conforming habits&amp;rdquo;.</description>
+      <description>Intro&gt;Intro # If you’re on this blog, you’ve no doubt seen the plethora of anti-trans bills in state legislatures across the United States. Most of these bills are aimed at transgender children – some strip away the right to medical interventions like puberty blockers, others prevent children and teens from playing in sports, and others still require teachers and administrators in our schools to out any child with &amp;ldquo;gender non-conforming habits&amp;rdquo;.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/supporting-trans-kids/featured.jpg" />
     </item>
     
     <item>
       <title>About Queerbrary</title>
-      <link>/posts/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 23 Dec 2020 21:29:53 -0500</pubDate>
       
-      <guid>/posts/about/</guid>
+      <guid>/about/</guid>
       <description>Queerbrary is all about LGBTQ+ inclusion and active support in library spaces, both for patrons and staff worldwide.
 “But,” you may ask, “we already host Drag Queen Story Hour! Isn’t that enough?</description>
       

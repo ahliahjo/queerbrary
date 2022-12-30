@@ -49,15 +49,6 @@
   
     
       <url>
-            <loc>/</loc>
-            <lastmod>2021-04-21T22:32:37-05:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>/posts/supporting-trans-kids/</loc>
             <lastmod>2021-04-21T22:32:37-05:00</lastmod>
             <changefreq>daily</changefreq>
@@ -94,6 +85,15 @@
   
     
       <url>
+            <loc>/</loc>
+            <lastmod>2021-04-21T22:32:37-05:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>/tags/youth/</loc>
             <lastmod>2021-04-21T22:32:37-05:00</lastmod>
             <changefreq>daily</changefreq>
@@ -103,7 +103,7 @@
   
     
       <url>
-            <loc>/posts/about/</loc>
+            <loc>/about/</loc>
             <lastmod>2020-12-23T21:29:53-05:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

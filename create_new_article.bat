@@ -1,0 +1,1 @@
+hugo new posts/article-title/index.md
