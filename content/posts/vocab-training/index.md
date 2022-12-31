@@ -1,7 +1,6 @@
 ---
 title: "The Ever-Present LGBTQ+ Vocab Training"
 date: 2020-08-16T10:41:05-05:00
-draft: true
 categories:
 - staff-development
 tags:
@@ -9,15 +8,15 @@ tags:
 - vocab
 ---
 
-## The Training (dun dun)
-
 As library workers, most of us love categorizing things. We're obsessed with words and their meanings. So much of our work is searching, and we are taught and trained on how to make words work for us. Categorization is our bread and butter -- therefore it makes sense (to some degree) that, when faced with a new subject, our first instinct is to learn the vocab. I suggest that this instinct, particularly when aimed at LGBTQ+ staff training, hinders our work, and that there are more effective ways to use our training time.
+
+## The Training (dun dun)
 
 In my experience, there is one kind of training geared towards LGBTQ+ topics that library systems are willing to tackle -- a vocabulary training. It's comfortable, it helps library staff understand terms that might be used, but does it actually help us work with queer patrons? I don't think so. The vocab trainings (yes, plural) that I've attended are long, boring readings of dictionary definitions, often hosted by a cis, straight trainer that has no connection to the vocab or the culture it's meant to represent. Sometimes we get even less than that, perhaps one sheet of vocab handed out during a general "diversity" training. But who is this vocab helping? We're trained information professionals, surely if someone asks for a book with an asexual protagonist, we could look that up! As a matter of fact, I suggest you bookmark this site of queer vocabulary (compiled by many awesome librarians, archivists, academics, and historians) and ignore any future training that just focuses on vocabulary. It's not worth your time, and it's not helping anyone become a better ally.
 
 I get why we go for the vocab training. It's easy for our staff trainer, state organizations, invited diversity speaker, etc. to learn quickly and be able to share. It's not time-intensive, but it has very little value for your time. 
 
-## So...what would be (more) useful?
+## So... what would be (more) useful?
 
 Budgets are stretched to the brink, so why waste time on trainings that can easily be covered by a web search? It would be a much better value to train staff on topics that will improve the quality of the library experience for both patron and staff alike. 
 
@@ -28,7 +27,8 @@ This is a basic training that gets a lot of bang for its buck. Topics covered in
 * Always model queer-affirming behavior, regardless of your assumptions about a patron's sexuality or gender identity. This includes asking for pronouns, wearing your pronoun on a button (yes this really helps!), not assuming what bathroom a person needs, calling out anti-LGBTQ+ behavior from patrons or colleagues, using gender-inclusive language, and much more.
 * Have inclusive book displays, book lists, and programs. Please stop reserving queer books for Pride displays -- we're queer all year!
 * Partnering with LGBTQ+ groups
-* How to identify that someone's signalling that they need queer recommendations <-- this is where queer vocabulary comes in handy
+* How to identify that someone's signalling that they need queer recommendations :arrow_
+left: this is where queer vocabulary comes in handy
 
 You don't have to go super in-depth with any of these sections in an allyship training -- like I said, this is a BASIC training. Provide resources for staff so they can do deeper dives (there are lots of resources on GLSEN, The Trevor Project, and ALA's Rainbow Round Table), and I highly recommend getting buttons so people can display their willingness to help LGBTQ+ patrons. Identity flags and pronoun buttons would be ideal.
 
