@@ -21,9 +21,3 @@ This will create a ready-to-edit file at `content/posts/article-title/index.md`.
 ### Run the server locally
 
 Double-click on `start_local_server.bat` - this will build the site and make it available in your local browser at `http://localhost:1313`. The `-D` flag means that it will compile `draft` posts, which are not usually included.
-
-### Build the site for deployment
-
-Double-click on `build_site.bat`; this will update the full build of the site with your content and will **not** include drafts.
-
-This will compile everything in a ready-to-deploy state and put it in the `public` folder. Then you can just commit everything and push it up.
