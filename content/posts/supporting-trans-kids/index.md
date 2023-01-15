@@ -25,4 +25,6 @@ I suggest that libraries, school and public specifically, should be on the foref
 
 Whatever you do, we must band together as educators and library staff to provide the best service we can to transgender youth at all times, but especially in these times of politicization of children’s bodies. It’s our duty to do what we can to ensure they are loved, cared for, and informed.
 
-Photo credit: Child running with a transgender flag during a Pride Parade in Portland, Maine. Photo by Mercedes Mehling on Unsplash.
+---
+
+Photo description and credit: Child running with a transgender flag during a Pride Parade in Portland, Maine. Photo by Mercedes Mehling on Unsplash.

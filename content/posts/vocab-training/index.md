@@ -48,4 +48,6 @@ What do you do if you have staff that are resistant to help LGBTQ+ patrons? If y
 
 There's so much to write about staff training when it comes to queering the library, and this is just the tip of the iceberg. My best beginner's advice is please, don't give in to the simplicity of a vocabulary training. It bores staff and does so little for your patrons. Think past the vocab sheet, get a little creative, and don't be afraid to get messy. Inclusion initiatives will directly conflict with the worldview of some of your staff, so mess is almost guaranteed, but I promise you it's worth it.
 
-Photo credit: Photo by Jelleke Vanooteghem on Unsplash
+---
+
+Photo description and credit: A brick wall with a crossword painted on it. Photo by Jelleke Vanooteghem on Unsplash.
