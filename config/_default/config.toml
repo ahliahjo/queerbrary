@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://ahliahjo.github.io/queerbrary"
+baseURL = "https://queerbrary.com"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
