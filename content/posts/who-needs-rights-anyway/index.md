@@ -18,7 +18,7 @@ There’s no safety in my rabbit nest. My health, mentally and physically, isn�
 This week has been a watershed moment for the Court, showing their true colors, so long as those colors are beige. Thursday, they effectively banned <a href="https://www.cbsnews.com/news/what-is-affirmative-action-history-college-admissions-supreme-court/">affirmative action</a>, a program with a proven track record of increasing the likelihood of Black and brown college applicants getting accepted to their chosen school. It’s a stark reversal from the promises of the <a href="https://www.history.com/topics/black-history/civil-rights-act">Civil Rights Act of 1964</a>, an assurance that not only would Black and brown people not be negatively targeted based on race, but that the government would institute policies to level the playing field and reduce the harms done over the centuries of enslavement and segregation. 
 
 
-Yesterday’s decision is reprehensible. To quote Justice Ketanji Brown Jackson:
+The court's decision is reprehensible. To quote Justice Ketanji Brown Jackson:
 
 > Our country has never been colorblind. Given the lengthy history of state-sponsored race-based preferences in America, to say that anyone is now victimized if a college considers whether that legacy of discrimination has unequally advantaged its applicants fails to acknowledge the well-documented ‘intergenerational transmission of inequality’ that still plagues our citizenry.
 
