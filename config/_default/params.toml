@@ -17,7 +17,7 @@ enableCodeCopy = false
 
 # disableImageOptimization = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
 
 [header]
   layout = "basic" # valid options: basic, fixed
@@ -61,8 +61,8 @@ enableCodeCopy = false
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = false 
-  showAuthorsBadges = false 
+  showTaxonomies = false
+  showAuthorsBadges = false
   showWordCount = true
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
