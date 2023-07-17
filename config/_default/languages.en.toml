@@ -1,12 +1,15 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
-weight = 1
-rtl = false
+
+[params]
+  weight = 1
+  rtl = false
+  isoCode = "en"
+  logo = "img/cropped-Q-Logo-9-1024x1024.jpg"
+  displayName = "EN"
 
 title = "Queerbrary"
-logo = "img/cropped-Q-Logo-9-1024x1024.jpg"
+
 description = "Libraries support everyone!"
 copyright = "Ahliah Bratzler"
 
