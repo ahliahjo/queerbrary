@@ -1,12 +1,11 @@
-languageCode = "en"
-languageName = "English"
-
 [params]
   weight = 1
   rtl = false
   isoCode = "en"
   logo = "img/cropped-Q-Logo-9-1024x1024.jpg"
   displayName = "EN"
+  languageCode = "en"
+  languageName = "English"
 
 title = "Queerbrary"
 
