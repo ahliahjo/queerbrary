@@ -1,0 +1,1 @@
+hugo new posts/review__INSERT_TITLE/index.md --kind=review

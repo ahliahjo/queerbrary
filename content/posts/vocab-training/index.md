@@ -6,6 +6,8 @@ categories:
 tags:
 - training
 - vocab
+authors:
+- "ahliahjo"
 ---
 
 As library workers, most of us love categorizing things. We're obsessed with words and their meanings. So much of our work is searching, and we are taught and trained on how to make words work for us. Categorization is our bread and butter -- therefore it makes sense (to some degree) that, when faced with a new subject, our first instinct is to learn the vocab. I suggest that this instinct, particularly when aimed at LGBTQ+ staff training, hinders our work, and that there are more effective ways to use our training time.

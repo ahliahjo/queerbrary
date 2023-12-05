@@ -1,0 +1,1 @@
+hugo new posts/review-title/index.md --kind=romance_corner_review

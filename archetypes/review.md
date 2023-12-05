@@ -5,10 +5,9 @@ draft: true
 authors:
 - "ahliahjo"
 categories:
-- category1
-- category2
+- review
 tags:
-- tag1
+- bookreview
 - tag2
 - tag3
 ---

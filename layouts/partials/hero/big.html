@@ -1,0 +1,22 @@
+{{ $disableImageOptimization := .Page.Site.Params.disableImageOptimization | default false }}
+
+{{- $images := .Resources.ByType "image" -}}
+{{- $featured := $images.GetMatch "*feature*" -}}
+{{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+{{- with $featured -}}
+    {{ if $.Params.bookCover}}
+        {{ with . }}
+        <div class="flex justify-center">
+            <img src="{{ .RelPermalink }}" alt="{{ $.Params.bookCoverAlt }}" class="h-full rounded single_hero_basic nozoom">
+        </div>
+        {{ end }}
+    {{ else if $disableImageOptimization }}
+        {{ with . }}
+            <div class="w-full h-36 md:h-56 lg:h-72 single_hero_basic rounded nozoom" style="background-image:url({{ .RelPermalink }});"></div>
+        {{ end }}
+    {{ else }}
+        {{ with .Resize "1200x" }}
+            <div class="w-full h-36 md:h-56 lg:h-72 single_hero_basic rounded nozoom" style="background-image:url({{ .RelPermalink }});"></div>
+        {{ end }}
+    {{ end }}
+{{- end -}}

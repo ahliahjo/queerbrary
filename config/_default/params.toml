@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts", "reviews"]
 # robots = ""
 
 # disableImageOptimization = false
@@ -35,7 +35,7 @@ enableCodeCopy = false
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
-  showMoreLinkDest = "/queerbrary/posts"
+  showMoreLinkDest = "/posts/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background

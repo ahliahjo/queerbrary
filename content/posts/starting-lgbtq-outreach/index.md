@@ -8,6 +8,8 @@ tags:
 - support
 - pride
 - community orgs
+authors:
+- "ahliahjo"
 ---
 
 ## A Queerbrary Quick Start Guide

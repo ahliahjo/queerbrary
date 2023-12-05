@@ -4,8 +4,8 @@ date: 2023-07-06T15:39:50-04:00
 categories:
 - keeping-house
 - politics
-tags:
--
+authors:
+- "ahliahjo"
 ---
 
 I am furious, sad, exhausted, and absolutely disgusted by the all-out war being waged against LGBTQ+ people in the United States. For the past year and a half, you may have noticed that this blog has been silent, and this is the reason: I just couldn’t. I couldn’t handle the threats being thrown in the faces of LGBTQ+ people, LGBTQ+ children and teens especially. I couldn’t speak on the anti-intellectual attacks being brought in libraries across this country, attacking the very existence of queer and trans literature. I couldn’t allow myself to spend time on these because the void threatened to swallow me whole. I talk a big talk, but I’m not a fighter; and when things became dire, I mimicked a rabbit and scampered away to protect myself.

@@ -4,7 +4,8 @@ date: 2021-03-18T14:13:38-05:00
 categories:
 - collections
 - quick-start-guide
-tags:
+authors:
+- "ahliahjo"
 ---
 So you want to improve your queer collections? That’s GREAT! Congratulations to you for recognizing that there’s a need in your community for books written by queer authors and showcasing queer characters. Today I’m going to talk about some basic considerations you’ll want to take when improving your collection.
 

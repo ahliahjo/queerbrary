@@ -9,6 +9,8 @@ tags:
 - trans
 - youth
 - politics
+authors:
+- "ahliahjo"
 ---
 
 If you’re on this blog, you’ve no doubt seen the plethora of anti-trans bills in state legislatures across the United States. Most of these bills are aimed at transgender children – some strip away the right to medical interventions like puberty blockers, others prevent children and teens from playing in sports, and others still require teachers and administrators in our schools to out any child with "gender non-conforming habits". These bills sponsor harm against transgender youth across the country in the name of a skewed, far-right morality that only allows for certain ways of being human. We know that preventing trans youth from coming out and living authentically leads to a rise in [self-harm](https://www.mentalhealthtoday.co.uk/transgender-youths-who-self-harm-perspectives-from-those-seeking-support), [attempted suicide](https://www.hrc.org/news/new-study-reveals-shocking-rates-of-attempted-suicide-among-trans-adolescen), and [suicide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317390/), therefore these bills are direct attacks on the lives and livelihood of transgender and nonbinary youth. (Thankfully, during the writing of this, a [bill in Florida requiring genital inspection of children thought to be transgender](https://www.tampabay.com/news/florida-politics/2021/04/14/florida-house-passes-bill-banning-transgender-athletes-from-womens-sports/) was defeated in legislature.) How can libraries help the trans youth who are the targets of state-sponsored violence?
