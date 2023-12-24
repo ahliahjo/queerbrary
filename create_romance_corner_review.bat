@@ -1,1 +1,1 @@
-hugo new posts/review-title/index.md --kind=romance_corner_review
+hugo new content "reviews\review-title\index.md" --kind=romance_corner_review
