@@ -1,14 +1,12 @@
 ---
-title: "Article Title"
+title: "Quick Queer Program - Community Art Show"
 date: 2023-11-28T13:23:36-05:00
 draft: true
 categories:
-- category1
-- category2
+- programs
+- quick-start-guide
+- quick-queer-program
 tags:
-- tag1
-- tag2
-- tag3
 ---
 
 

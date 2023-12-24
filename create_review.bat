@@ -1,1 +1,1 @@
-hugo new posts/review__INSERT_TITLE/index.md --kind=review
+hugo new content "reviews\review-title\index.md" --kind=review
