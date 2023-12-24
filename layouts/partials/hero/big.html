@@ -7,7 +7,7 @@
     {{ if $.Params.bookCover}}
         {{ with . }} 
         <div class="flex justify-center">
-            <img src="{{ .RelPermalink }}" alt="{{ $.Params.bookCoverAlt }}" class="h-full rounded single_hero_basic nozoom" style="max-width: 400px;">
+            <img src="{{ .RelPermalink }}" alt="{{ $.Params.bookCoverAlt }}" title="{{ $.Params.bookCoverAlt }}"  class="h-full rounded single_hero_basic nozoom" style="max-width: 400px;">
         </div>
         {{ end }}
     {{ else if $disableImageOptimization }}
