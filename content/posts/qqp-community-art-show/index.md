@@ -1,7 +1,7 @@
 ---
 title: "Quick Queer Program - Community Art Show"
 date: 2024-05-07T10:23:36-05:00
-draft: true
+draft: false
 categories:
 - programs
 - quick-start-guide
